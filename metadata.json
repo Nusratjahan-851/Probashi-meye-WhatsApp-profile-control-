@@ -1,0 +1,6 @@
+{
+  "name": "Live Code Controller",
+  "description": "An interactive panel to control and synchronize an 8-digit live code instantly with a Firebase Realtime Database backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
