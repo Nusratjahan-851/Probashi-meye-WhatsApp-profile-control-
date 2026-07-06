@@ -1,0 +1,8 @@
+{
+	"appId": "com.livecodecontroller.app",
+	"appName": "Live Code Controller",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
